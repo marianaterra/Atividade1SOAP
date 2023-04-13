@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabSOAP", "TrabSOAP.csproj", "{9240F1F2-ED28-48D4-9B28-EFE48A35AEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9240F1F2-ED28-48D4-9B28-EFE48A35AEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9240F1F2-ED28-48D4-9B28-EFE48A35AEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9240F1F2-ED28-48D4-9B28-EFE48A35AEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9240F1F2-ED28-48D4-9B28-EFE48A35AEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D59FA540-8D46-4A93-BF0E-38D792B0C90F}
+	EndGlobalSection
+EndGlobal
